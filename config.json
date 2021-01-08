@@ -1,0 +1,172 @@
+{
+    "sitename": "АИС СНО 2.0",
+    "controllers": {
+        "main": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                true
+            ],
+            
+            "data": {
+                "title": "АИС СНО 2.0",
+                "js": "",
+                "css": "",
+                "status": 0
+            }
+        },
+        "404": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                true
+            ],
+            "data": {
+                "title": "Не найдено",
+                "js": "",
+                "css": "",
+                "status": 0
+            }
+        },
+        "api": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                true
+            ],
+            "data": {
+                "title": "API",
+                "js": "",
+                "css": "",
+                "status": 0
+            }
+        },
+        "projects": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                false
+            ],
+            "data": {
+                "title": "Проект",
+                "icon": "home",
+                "js": "'<script src='../dist/js/pages/starter.js?v={version}'></script>",
+                "css": "",
+                "status": 1
+            }
+        },
+        "gantt": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                false
+            ],
+            "data": {
+                "title": "Диаграмма",
+                "icon": "home",
+                "js": "'<script src='../dist/js/pages/starter.js?v={version}'></script>",
+                "css": "",
+                "status": 1
+            }
+        },
+        
+        "starter": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                false
+            ],
+            "data": {
+                "title": "Проекты",
+                "js": "'<script src='../dist/js/pages/starter.js?v={version}'></script>",
+                "css": "",
+                "status": 0,
+                "menu": 0
+            }
+        },
+
+        
+        "diploma": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                true
+            ],
+            "data": {
+                "issetID": 1,
+                "title": "Печать",
+                "js": "",
+                "css": "",
+                "status": 0
+            }
+        },
+        "print": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                true
+            ],
+            "data": {
+                "issetID": 1,
+                "title": "Печать",
+                "js": "",
+                "css": "",
+                "status": 0
+            }
+        },
+        "manual": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                false
+            ],
+            "data": {
+                "title": "Пользователи",
+                "js": "",
+                "css": "",
+                "status": 2,
+                "menu": 0
+            }
+        },
+        "cogs": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                false
+            ],
+            "data": {
+                "title": "Настройка системы",
+                "icon": "cogs",
+                "js": "",
+                "css": "",
+                "status": 5,
+                "menu": 0
+            }
+        },
+        "list": {
+            "reserved": [
+                true
+            ],
+            "main": [
+                true
+            ],
+            "data": {
+                "title": "Список",
+                "js": "",
+                "css": "",
+                "status": 5,
+                "menu": 0
+            }
+        }
+    }
+}
