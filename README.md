@@ -4,11 +4,11 @@
 
 ## Члены команды
 
-- Алексей Бирюков (PM)
-- Даниил Агниашвили (DevLead/Architect)
-- Данил Хайрисламов (LeadAnalyst/Analyst)
-- Алексей Никонов (DEV)
-- Родион Китов (QA/TST)
+- Алексей Бирюков (PM) @EgoPingvina
+- Даниил Агниашвили (DevLead/Architect) @daniilak
+- Данил Хайрисламов (LeadAnalyst/Analyst) @danilKhay
+- Алексей Никонов (DEV) @Aleksey-Nikonov
+- Родион Китов (QA/TST) @whalecore
 
 ## Роли
 - Менеджер проекта
