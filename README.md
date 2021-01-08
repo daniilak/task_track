@@ -79,3 +79,8 @@
 - группировка по Приоритету
 - группировка по Исполнителю
 - группировка по Статусу
+
+## Рекомендации по разворачиванию
+- чтобы задеплоить, необходимо прописать константы: https://raw.githubusercontent.com/daniilak/task_track..
+- vk_app_id, vk_app_secret: https://vk.com/dev/vkapp_create
+- chuvsu_api_key: https://vkhost.github.io/
