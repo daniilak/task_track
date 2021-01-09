@@ -7,11 +7,11 @@ http://app.daniilak.ru/
 
 ## Члены команды
 
-- Алексей Бирюков (PM) @EgoPingvina
-- Даниил Агниашвили (DevLead/Architect) @daniilak
-- Данил Хайрисламов (LeadAnalyst/Analyst) @danilKhay
-- Алексей Никонов (DEV) @Aleksey-Nikonov
-- Родион Гаскаров (QA/TST) @whalecore
+- Алексей Бирюков (PM) [@EgoPingvina](https://github.com/EgoPingvina)
+- Даниил Агниашвили (DevLead/Architect) [@daniilak](https://github.com/daniilak)
+- Данил Хайрисламов (LeadAnalyst/Analyst) [@danilKhay](https://github.com/danilKhay)
+- Алексей Никонов (DEV) [@Aleksey-Nikonov](https://github.com/Aleksey-Nikonov)
+- Родион Гаскаров (QA/TST) [@whalecore](https://github.com/whalecore)
 
 ## Роли
 - Менеджер проекта
