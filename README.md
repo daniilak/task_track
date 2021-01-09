@@ -11,7 +11,7 @@ http://app.daniilak.ru/
 - Даниил Агниашвили (DevLead/Architect) @daniilak
 - Данил Хайрисламов (LeadAnalyst/Analyst) @danilKhay
 - Алексей Никонов (DEV) @Aleksey-Nikonov
-- Родион Китов (QA/TST) @whalecore
+- Родион Гаскаров (QA/TST) @whalecore
 
 ## Роли
 - Менеджер проекта
